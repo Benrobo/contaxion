@@ -1,5 +1,5 @@
 <p align="center">
-<img width=300px height=300px src="https://raw.githubusercontent.com/Benrobo/contaxion/main/lib/img/logo.png?token=APSXSWB3TJZEEGHMO2MKEQLBOYFZS" alt="contaxion logo">
+<img width=300px height=300px src="https://raw.githubusercontent.com/Benrobo/contaxion/main/img/logo.png" alt="contaxion logo">
 </p>
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/benrobo/contaxion/main?style=for-the-badge)
