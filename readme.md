@@ -118,7 +118,7 @@
 
 ### 🎗 Result
 
-<img src="https://raw.githubusercontent.com/Benrobo/contaxion/main/lib/img/screenshot/screenshot3.PNG">
+<img src="https://raw.githubusercontent.com/Benrobo/contaxion/main/img/screenshot/screenshot3.PNG">
 
 ### 💎 Making use of the default Contaxion form.
 
