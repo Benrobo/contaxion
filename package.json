@@ -1,0 +1,11 @@
+{
+  "name": "contaxion",
+  "version": "1.0.0",
+  "description": "Integrate a contact form base ui and all functionality needed without tears. both for developers and non-developers",
+  "main": "contaxion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benrobo",
+  "license": "ISC"
+}
